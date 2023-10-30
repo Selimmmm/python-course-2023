@@ -1,9 +1,9 @@
 
 
-# Découverte du langage
+<!-- # Découverte du langage
 
 - Variables & Types
 
 
 
-# Setup d'un environnement de développement
+# Setup d'un environnement de développement -->
