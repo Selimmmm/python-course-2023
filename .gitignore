@@ -1,0 +1,12 @@
+notes.md
+projet.ipynb
+**/__pycache__/
+# .* (cancel .gitignore too so not at init)
+env*
+# src/pca/staticfiles
+.env
+src/.env
+# node_modules # cause small
+.vscode
+.ipynb_checkpoints
+**/.ipynb_checkpoints
